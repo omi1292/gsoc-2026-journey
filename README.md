@@ -17,3 +17,5 @@ making my first contributions, and preparing for Google Summer of Code 2026.
 
 ## Status
 Getting started 🚀
+First update pushed from my local machine.
+
